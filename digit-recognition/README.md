@@ -1,4 +1,4 @@
-#Digit recognition program
+# Digit recognition program
 
 to install program's-library :
 
@@ -23,6 +23,6 @@ to run programm:
 
 develope model using logistic regression to achieve digit recognition
 
-#note:this is written in python3
+# note:this is written in python3
 
 
