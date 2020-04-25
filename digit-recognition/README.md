@@ -8,6 +8,7 @@ in windows:
 pip install scikit-learn
 pip install numpy
 pip install matplotlib
+pip install seaborn
 ```
 in linux/mac:
 
@@ -15,6 +16,7 @@ in linux/mac:
 pip3 install scikit-learn
 pip3 install numpy
 pip3 install matplotlib
+pip3 install seaborn
 ```
 
 to run programm:
