@@ -15,7 +15,7 @@ in linux/mac:
 ```
 pip3 install scikit-learn
 pip3 install numpy
-pip3 install matplotlib
+pip3 install seaborn
 pip3 install pandas
 ```
 
@@ -23,7 +23,7 @@ to run programme you can run in project directory:
 
 ### `python loan.py`
 
-develope model using logistic regression to achieve digit recognition
+develope model using logistic regression to achieve good result
 
 # note:this is written in python3
 
